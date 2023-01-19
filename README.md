@@ -428,7 +428,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## CMS
 
-  * [fesh.](https://fesh.store/) - free eCommerce platform that allows to create a free online store and collet payments online
+  * [create free ecommerce website](https://fesh.store/) - fesh. - free eCommerce platform that allows to create a free online store and collet payments online
   * [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
   * [Contentful](https://www.contentful.com/) — Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes 5 users, 25K records, 48 Content Types, 2 locales.
   * [Cosmic](https://www.cosmicjs.com/) — Headless CMS and API toolkit. Free personal plans for developers.
